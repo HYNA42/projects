@@ -27,8 +27,6 @@ J'ai developpé ce projet de gestionnaire de tâches, simple et efficace conçu 
 
 Hyna42 - 06/05/2024
 
-Ce projet a été développé par [Votre Nom] dans le cadre de son apprentissage du développement web.
-
 ## Capture d'écran
 
 ![alt text](image.png)
