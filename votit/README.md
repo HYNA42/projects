@@ -39,4 +39,8 @@ VotIt est un projet PHP Vanilla, développé à 100% en PHP sans utiliser de fra
 4. Modifiez les informations de connexion à la base de données dans le fichier `lib/config.php`.
 5. Lancez l'application dans votre navigateur en accédant à l'URL correspondante.
 
+## (todo after : reset.php)..........
+
+
 ## .............
+![alt text](image-1.png)
