@@ -10,7 +10,7 @@ Il s'agit d'un projet complet qui couvre plusieurs aspects du développement log
 ## Description
 
 VotIt est un projet PHP Vanilla, développé à 100% en PHP sans utiliser de frameworks ou de bibliothèques externes. Cette approche a été choisie pour permettre une compréhension approfondie du langage PHP et pour offrir une expérience de développement purement personnalisée.
-![alt text](image.png)
+
 ## Fonctionnalités
 
 - **Création de sondages** : Les utilisateurs peuvent créer des sondages sur des sujets de leur choix, en ajoutant des questions, des options de réponse, et une description détaillée.
